@@ -3,6 +3,7 @@ Tendrás que entrar al github
 https://github.com/anaasins/examenVagrant.git
 
 Te clonas todo lo que encuentres en esa carpeta y lo guardas en tu carpeta C:\cygwin64\home\usuario\proyecto
+Tambien tendras que crear una careta llamado proyecto_freelancer aqui dentro.
 Despues en el cygwin entras hast esta carpeta pones los siguientes comandos:
 
 vagarnt init ubuntu/trusty64

@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/proyecto_freelancer":{"guestpath":"/var/www/html/proyecto_freelancer","hostpath":"C:/cygwin64/home/2daw/examen/proyecto_freelancer","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/cygwin64/home/2daw/examen","disabled":false,"__vagrantfile":true}}}
